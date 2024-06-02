@@ -13,11 +13,11 @@ Write: ffe1
 
 In my case, the hex commands had to be written to ffe1. For my controller model, all commands begin with 53.
 
-Power On
-53 50 A9 01 00 01 83
+**Power On**
+'53 50 A9 01 00 01 83'
 
-Power Off
-53 50 C3 01 00 01 E8
+**Power Off**
+'53 50 C3 01 00 01 E8'
 
-Dynamic Effect 1: Rainbow
-53 53 17 01 00 02 3F 3D
+**Dynamic Effect 1: Rainbow**
+'53 53 17 01 00 02 3F 3D'
